@@ -1,0 +1,27 @@
+{
+  "name": "survey-form-review",
+  "version": "1.0.0",
+  "description": "This is a collaborative web page between Albert and Benjamin for the Microverse trials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabetech/survey-form-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabetech/survey-form-review/issues"
+  },
+  "homepage": "https://github.com/sabetech/survey-form-review#readme",
+  "devDependencies": {
+    "hint": "^6.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
